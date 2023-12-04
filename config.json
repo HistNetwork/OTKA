@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "MN Koz",
+      "tensorShape": [
+        241,
+        241
+      ],
+      "tensorPath": "https://github.com/HistNetwork/OTKA/tree/main/mn_koz/mn_koz_data.tsv",
+      "metadataPath": "https://github.com/HistNetwork/OTKA/tree/main/mn_koz/mn_koz_meta.tsv"
+    }
+  ]
+}
