@@ -1,13 +1,121 @@
 {
   "embeddings": [
-    {
+	{
       "tensorName": "MN Koz",
       "tensorShape": [
-        241,
-        241
+        240,
+        240
       ],
-      "tensorPath": "https://github.com/HistNetwork/OTKA/tree/main/mn_koz/mn_koz_data.tsv",
-      "metadataPath": "https://github.com/HistNetwork/OTKA/tree/main/mn_koz/mn_koz_meta.tsv"
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/mn_koz_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/mn_koz_meta.tsv"
+    },
+	{
+      "tensorName": "Dobi",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_dobi_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_dobi_meta.tsv"
+    },
+	{
+      "tensorName": "Fock",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_fock_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_fock_meta.tsv"
+    },
+	{
+      "tensorName": "Grosz",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_grosz_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_grosz_meta.tsv"
+    },
+	{
+      "tensorName": "Hegedus",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_hegedus_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_hegedus_meta.tsv"
+    },
+	{
+      "tensorName": "Kádár 1",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_kadar_1_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_kadar_1_meta.tsv"
+    },
+	{
+      "tensorName": "Kádár 2",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_kadar_2_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_kadar_2_meta.tsv"
+    },
+	{
+      "tensorName": "Kállai",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_kallai_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_kallai_meta.tsv"
+    },
+	{
+      "tensorName": "Lázár",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_lazar_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_lazar_meta.tsv"
+    },
+	{
+      "tensorName": "Münnich",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_munnich_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_munnich_meta.tsv"
+    },
+	{
+      "tensorName": "Nagy",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_nagy_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_nagy_meta.tsv"
+    },
+	{
+      "tensorName": "Németh",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_nemeth_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_nemeth_meta.tsv"
+    },
+    {
+      "tensorName": "Rákosi",
+      "tensorShape": [
+        26,
+        26
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/76018ece5c7abcb6cfc63cd8eacab255043b2bb4/prime_min_mn_koz_matrix_rakosi_data.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HistNetwork/b25fd9685ed09841142d5086369dce4f/raw/d6d61cbb31e255bb485fbf15c915c9d011197d3b/prime_min_mn_koz_matrix_rakosi_meta.tsv"
     }
   ]
 }
